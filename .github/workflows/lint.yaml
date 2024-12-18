@@ -1,0 +1,21 @@
+name: Linting
+
+run-name: Linting the code by @${{ github.actor }}
+
+on: push
+
+jobs:
+  linting:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Get code
+        uses: actions/checkout@v3
+      - name: Install dependencies (Save as Dev enviroment)
+        run: yarn install
+      - name: Build
+        run: yarn run build
+      - name: Lint Eslint
+        run: yarn run lint
+      - name: Type checking
+        run: yarn nuxi typecheck

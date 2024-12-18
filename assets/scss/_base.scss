@@ -1,0 +1,25 @@
+@mixin title-section {
+    @apply text-lg uppercase mb-3 tracking-widest;
+    color: $font-color;
+    font-family: 'TT Norms Bold';
+  }
+
+
+// REMOVE ARROWS NUMBER INPUT
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+// REMOVE ARROWS NUMBER INPUT
+/* Firefox */
+input[type=number] {
+  appearance: textfield;
+  -moz-appearance: textfield;
+}
+
+// Remove extra space for captcha
+.grecaptcha-badge {
+  visibility: hidden;
+}

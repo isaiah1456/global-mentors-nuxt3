@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "dogo-website-406014",
+  "private_key_id": "5518c9aea3dbafb59e681e6239fc558458a69b01",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCqOfrzY3qoKrKz\nXKtlgdZGgmDP+GmsPosJWGi9/aBfQUhXNaCfqI1XdPKw3qqAxDeLFTc+y+EMP9dW\nlB2C789V1VowXgs7NKazHQxthGkK4cYdCXCvvXG4yX0v4LlEakEke0WupDMW3aCX\nqFHoSe93setnF6GJziNCz4tEHYyVOGvN2LHFCfSvsnSLmvij+Lkls/YzEea7Ylpy\nNpN+nF/Z4AfLoPK7eHDVTceJCObS/JP19kn/TldQqXxbMZRZ1U68HMoIXpSTJqdm\nD7ae7m+zUghVsc1xkx+ghEJ6RuBEAmNkGBskNs69/AcLBBSNRwXGN3eaPP/Mptza\n7agzh+b/AgMBAAECggEAFcGDSUgVjRin7jSR009cy3YuWWYuW01DB9a8zEt2C7aU\nQFEiTkWEiwDvY5uRvxNU5fm4LdZw1Nfz9aTIgMuVfCrgc/4RAWghRhMYW4boxfNF\nFsD2Hf/gYPWfglb+Vrgdy0PWDBQAU5PPypJApaeNa4bZxztF8g7egtNzwSjlpsxx\nyUEK7a9U/2C0O+8NFkaW19pqZQgimh8GecRR23t7OG7MyDeLXSgmbmqy1FTPtaCz\nAKxJKKCDnbxXlxwP8ij6Q3qGXWWqYliBa/x14/30WrgBCFvW3YMs9o9UxYAfQ217\nIXfGOikvV7b7j+QTKx3pUZVslCQ0dAarnl0mD5dowQKBgQDct3thDgTVpXXg9OKT\nbPVHHLUqFaMru4rtmSm+dB7ikavPhv/DRjOQS7/zxp+8TrHiA6w2C1Ht6f+Y3Lrh\nK7d1YjI+n+RleFWT5RfUulw97iaXPvDkhejbdwnPWJ/MaE1USvuno2KEbndUDH+y\ncoueWjM2sLo0JyzhNjaodQONAwKBgQDFcEHNc/SoP5wRnPojCO7+rMb7E9HEd1sy\nYt4FNxJvObdcfD7Invj4TGR3nAi01XS7MiCzOOLaatJQcGpCRY+nlHOoQzBZZ4EB\nwwzaTJ0vyyYxQtxRh1q5t6aamBbqrCCvxaUj+py9sOI+4ySv4fkhBN9jlZ7lUAw1\nrrdaT9UHVQKBgQCX2SPpAdwRoGQZAGFhS/Tzl6yL55b632wVSuqNPRaCifXKMPaF\nQib3fyXwcRY0V2/KLvyrsd4L8JEIedOYVptBBu3KZ/aaWM+HkHV0xUHw2YdzRro0\nfmxVkPAO1soZtyh8dZntG1sMAXPXP0IbYvLrXuMdHTj96HXX+5RfESIAQQKBgAim\n+rs+MaKN5xD+iBew9IhEmhO2sqKheGWk34Xq++vT460x5K52CQMYle6H7/m8wPjT\nIYu5Gnfn5n+P7Zgp5Dm7z7W3/A5u8sBZA98tLFZD2NCf1XfdLqSk37A2qgpusKAD\nUVFaUjQd5ExNN/ZdOMWxqPh8PhJeh6pylaZniTZhAoGAT6Zo79/KTFa69dhf4eRc\neX5P+VBHoznLEoL/hY8fPWl6FplGty7rImivB6owkSjvzuIuXyyfSawa7UaQbJMW\n98Hl8k37cpxwv8M3aYhMGMZeLFrO4svd7MGg9owYYw1CcCrlVYO6nR+XNlC5Z+fj\nIRy0v2IpVP6talu7y30DVwc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dogo-calendar@dogo-website-406014.iam.gserviceaccount.com",
+  "client_id": "105312285735638105449",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dogo-calendar%40dogo-website-406014.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
